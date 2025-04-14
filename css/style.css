@@ -1,6 +1,12 @@
 
 /*** Spinner Start ***/
 /*** Spinner ***/
+ 
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+ 
+
 #spinner {
     opacity: 0;
     visibility: hidden;
